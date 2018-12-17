@@ -6,13 +6,13 @@
 </template>
 
 <script>
-import MyMap from '~/components/MyMap.vue'
+import MyMap from '~/components/MyMap.vue';
 
 export default {
   components: {
     MyMap
   }
-}
+};
 </script>
 
 <style scoped>
